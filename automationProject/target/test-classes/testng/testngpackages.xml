@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "TestNGExampleSuite" parallel = "false">
+<test name = "TestNGTestcase">
+<packages>
+<package name = "testng">
+<exclude name = "testng.Morethan1testcase"></exclude>
+</package>
+</packages>
+</test>
+</suite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNGExampleSuite" duration-ms="19155" started-at="2015-07-28T10:54:23Z" finished-at="2015-07-28T10:54:42Z">
+    <groups>
+    </groups>
+    <test name="TestNGTestcase" duration-ms="19155" started-at="2015-07-28T10:54:23Z" finished-at="2015-07-28T10:54:42Z">
+      <class name="testng.Morethan1testcase">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testng.Morethan1testcase@5e025e70]" name="beforeTest" is-config="true" duration-ms="5105" started-at="2015-07-28T16:24:23Z" finished-at="2015-07-28T16:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testng.Singletestcase@129a8472]" name="beforeTest" is-config="true" duration-ms="2338" started-at="2015-07-28T16:24:28Z" finished-at="2015-07-28T16:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testng.Morethan1testcase@5e025e70]" name="f" duration-ms="3078" started-at="2015-07-28T16:24:30Z" finished-at="2015-07-28T16:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.Morethan1testcase@5e025e70]" name="afterTest" is-config="true" duration-ms="158" started-at="2015-07-28T16:24:42Z" finished-at="2015-07-28T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.Singletestcase@129a8472]" name="afterTest" is-config="true" duration-ms="215" started-at="2015-07-28T16:24:42Z" finished-at="2015-07-28T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.Morethan1testcase -->
+      <class name="testng.Singletestcase">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:testng.Singletestcase@129a8472]" name="beforeclass" is-config="true" duration-ms="3" started-at="2015-07-28T16:24:33Z" finished-at="2015-07-28T16:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testng.Singletestcase@129a8472]" name="testcase1" duration-ms="4636" started-at="2015-07-28T16:24:33Z" finished-at="2015-07-28T16:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:testng.Singletestcase@129a8472]" name="testcase2" duration-ms="3601" started-at="2015-07-28T16:24:38Z" finished-at="2015-07-28T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:testng.Singletestcase@129a8472]" name="afterclass" is-config="true" duration-ms="4" started-at="2015-07-28T16:24:42Z" finished-at="2015-07-28T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testng.Singletestcase -->
+    </test> <!-- TestNGTestcase -->
+  </suite> <!-- TestNGExampleSuite -->
+</testng-results>
